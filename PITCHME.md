@@ -1,6 +1,6 @@
 ---
 
-Il buon esempio :boom:
+Il buon esempio 💥
 
 ---
 
