@@ -46,5 +46,3 @@ In presenza
 ---
 
 Non dare nulla per scontato e/o "abituarsi"
-
----
