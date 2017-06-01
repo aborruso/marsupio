@@ -45,6 +45,6 @@ In presenza
 
 ---
 
-Non dare nulla per scontato e/o abitudinario
+Non dare nulla per scontato e/o "abituarsi"
 
 ---
