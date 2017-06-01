@@ -7,6 +7,14 @@
 
 ---
 
+# Saluti
+
+- Andria Tzedda (il raduno delle isole, perché 1000 schemi, perché l'ISTAT non è nel portale OpenData);
+- Matteo Tempestini;
+- Napo
+
+---
+
 Il buon esempio 💥
 
 ---
@@ -32,3 +40,7 @@ Iperlocale
 ---
 
 In presenza
+
+---
+
+La proposta di **Massimo Zotti**: traduciamo i video di Copernicus
